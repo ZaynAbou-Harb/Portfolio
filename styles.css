@@ -1,0 +1,64 @@
+/*
+  Name: Zayn Abou-Harb
+  Date: 4 Oct 2020
+  Section: CSE 154 AE Josie Lee & Dylan McKone
+
+  This is the styles.css page for CP1. It is used to define the rules of
+  style for all pages in the site.
+*/
+
+body {
+  font-size: 15px;
+  font-family: "Helvetica", "Arial", sans-serif;
+  background-color: gray;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  font-family: "Times New Roman", "Times", serif;
+  font-size: 2.5rem;
+  color: red;
+  text-transform: uppercase;
+}
+
+h2, h3 {
+  color: orangered;
+}
+
+section {
+  border: 1px black;
+  border-radius: 8px;
+  background-color: lightgray;
+  box-shadow: 8px 8px 8px black;
+  padding: 5px;
+  margin: 10px;
+}
+
+section article {
+  text-align: center;
+}
+
+img {
+  background-color: white;
+  width: 300px;
+  height: auto;
+  padding: 16px;
+  box-shadow: 5px 5px 5px black;
+}
+
+.source {
+  font-size: 0.5rem;
+}
+
+#quote {
+  font-style: italic;
+}
+
+#container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+}
