@@ -58,6 +58,10 @@ img {
   color: blue;
 }
 
+.resume {
+  width: 70%;
+}
+
 /*
 Code borrowed from: https://www.w3schools.com/howto/howto_js_topnav.asp
 */
