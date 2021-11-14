@@ -8,7 +8,7 @@
 */
 
 body {
-  font-size: 15px;
+  font-size: 20px;
   font-family: "Helvetica", "Arial", sans-serif;
   background-color: gray;
   width: 80%;
@@ -60,6 +60,10 @@ img {
 
 .resume {
   width: 70%;
+}
+
+.art {
+  width: 50%;
 }
 
 .screenshot {
